@@ -1,0 +1,15 @@
+# 100 days of DSA
+This isn't meant to be a continuous 100 days streak where i do DSA every day for 100 days straight since that isn't really possible for me because im participating in GSOC and also even without GSOC, college alone makes it really difficult to do anything like this, but I'll try my best to be as continuous as possible.
+
+## Goal:
+* My goal is to basically do 100 days of DSA not continuously but just 100 days with as less discontinuation as possible
+* I see this as a good way to regulate my placement preperation as, although i consider myself to be a decently skilled engineer of my speciality (AI/ML/Python), with my current portfolio I'd most definelty struggle to land a job because I've basically never touched DSA properly although i have made attempts before
+* Ideally I'll try to devote 30-60 minutes daily and at the end of each session update my progress on GitHub so a timeline of my work becomes visible and it becomes easier for myself (and maybe others if someone is interested in my resume or something) to quantify my work
+* I plan on documenting each day's work with a seperate markdown file for each day, sort of like a diary
+* I haven't put much thought into what sheet or course I'll follow. I'll just do ApnaCollege's DSA sheet since i remember it being free and somewhat popular
+* I think I'll only do easy-medium questions from the sheet and mostly easy, because I think at my stage continuity matters more than anything else
+
+## Resources
+* sheet im following: [DSA by Shradha Ma'am](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkZybHBuWldVQThBejYzdkc1RnItZHlNR2RFd3xBQ3Jtc0ttWFgtY3RwZnVqRDVZb0ZkRU5XeW45Mi10dDh3NWVDX1ByX29wbFVicTBNT0VBVEI5XzhHYjl5ZWp1WFdRNDFxbS1ZanZqMUlWZTIySXRhbF9GU3FKMmt2dExiNFQ3Y0FaLUpZeF81dE9telJtU1Qwdw&q=https%3A%2F%2Fbit.ly%2FDSAbyApnaCollege&v=u6Xsayqxij0)
+
+I'll update this markdown file if there are any other resources I follow.
