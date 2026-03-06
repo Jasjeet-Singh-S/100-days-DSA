@@ -1,0 +1,1 @@
+I am sick today so i'll just pick an easy problem for the sake of keeping the streak alive. Not gonna document much. Gonna do [reverse array](https://www.geeksforgeeks.org/problems/reverse-an-array/1)
