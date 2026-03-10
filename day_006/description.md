@@ -1,0 +1,1 @@
+Didn't know how to solve this problem, apart from brute force ofcourse, so i looked up kadane's algo explanation on youtube, and the code was surprisingly really easy after I'd understood the process, took me 5 mins to write the code. Easy peasy.
