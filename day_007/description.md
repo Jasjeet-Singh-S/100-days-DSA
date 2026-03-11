@@ -18,3 +18,5 @@ def digest(self, s):
             result += letter
     return result
 ```
+## Anagram problem
+super simple problem, I just maintained a dict for both strings being passed to the solution class that maintains the count of each letter in that string and then compare the dicts of both the strings.
