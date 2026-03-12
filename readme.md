@@ -13,3 +13,19 @@ This isn't meant to be a continuous 100 days streak where i do DSA every day for
 * sheet im following: [DSA by Shradha Ma'am](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkZybHBuWldVQThBejYzdkc1RnItZHlNR2RFd3xBQ3Jtc0ttWFgtY3RwZnVqRDVZb0ZkRU5XeW45Mi10dDh3NWVDX1ByX29wbFVicTBNT0VBVEI5XzhHYjl5ZWp1WFdRNDFxbS1ZanZqMUlWZTIySXRhbF9GU3FKMmt2dExiNFQ3Y0FaLUpZeF81dE9telJtU1Qwdw&q=https%3A%2F%2Fbit.ly%2FDSAbyApnaCollege&v=u6Xsayqxij0)
 
 I'll update this markdown file if there are any other resources I follow.
+
+## Progress
+Problem counter: 9 Problems
+
+| sr no | day | problem solved | difficulty |
+|---|---|---|---|
+| 1 | 1 | [minimum and maximum in an array](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_001/min_and_max_in_array.py) | easy
+| 2 | 2 | [reverse the array](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_002/reverse_array.py) | easy
+| 3 | 3 | [contains duplicate](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_003/duplicate_checker.py) | easy
+| 4 | 4 | [chocolate problem](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_004/chocolate_problem.py) | easy
+| 5 | 5 | [search in rotated sorted array](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_005/search_rotated_sorted_arr.py) | easy
+| 6 | 6 | [maximum subarray](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_006/maximum_subarray.py) | easy
+| 7 | 7 | [valid palindrome](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_007/palindrome.py) | easy
+| 8 |   | [valid anagram](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_007/anagram.py) | easy
+| 9 | 8 | [valid parenthesis](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_008/valid_parenthesis.py) | easy
+| 10 |   | [remove consecutive characters](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_008/remove_consec_chars.py) | easy
