@@ -29,3 +29,5 @@ Problem counter: 10 Problems
 | 8 |   | [valid anagram](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_007/anagram.py) | easy
 | 9 | 8 | [valid parenthesis](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_008/valid_parenthesis.py) | easy
 | 10 |   | [remove consecutive characters](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_008/remove_consec_chars.py) | easy
+| 11 | 9 | [longest common prefix](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_009/longest_common_prefix.py) | easy 
+| 12 |   | [mobile numeric keypad](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_009/mob_num_keypad.py) | easy
