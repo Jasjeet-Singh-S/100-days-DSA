@@ -15,7 +15,7 @@ This isn't meant to be a continuous 100 days streak where i do DSA every day for
 I'll update this markdown file if there are any other resources I follow.
 
 ## Progress
-Problem counter: 9 Problems
+Problem counter: 10 Problems
 
 | sr no | day | problem solved | difficulty |
 |---|---|---|---|
