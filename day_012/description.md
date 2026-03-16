@@ -1,0 +1,1 @@
+I couldn't solve this problem myself so i just followed this solution from [neetcode](https://youtu.be/pfiQ_PS1g8E?si=nmAGrh3twK6SIhak)
