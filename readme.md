@@ -15,7 +15,7 @@ This isn't meant to be a continuous 100 days streak where i do DSA every day for
 I'll update this markdown file if there are any other resources I follow.
 
 ## Progress
-Problem counter: 15 Problems
+Problem counter: 16 Problems
 
 | sr no | day | problem solved | difficulty |
 |---|---|---|---|
@@ -34,3 +34,4 @@ Problem counter: 15 Problems
 | 13 | 10 | [set matrix zeros](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_010/set_mat_zero.py) | medium
 | 14 | 11 | [spiral order matrix](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_011/spiral_order.py) | medium
 | 15 |   | [rotating matrix 90 degrees](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_011/rotate_mat_optimal.py) | medium
+| 16 | 12 | [word search](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_012/word_search.py) | medium
