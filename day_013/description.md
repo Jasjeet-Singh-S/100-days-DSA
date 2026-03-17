@@ -88,3 +88,6 @@ class Solution:
         self.dfs(grid, rows, cols, r+1, c-1, visited)
 ```
 Also made sure there are 8 directions to check instead of 4 like in the word problem 
+
+## Permutation Pair Sum
+This problem was super easy, just sort both arrays and compare descending and ascending corresponding value sums to K
