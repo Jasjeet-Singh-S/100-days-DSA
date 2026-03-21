@@ -37,3 +37,7 @@ Problem counter: 18 Problems
 | 16 | 12 | [word search](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_012/word_search.py) | medium
 | 17 | 13 | [count islands](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_013/num_islands.py) | medium
 | 18 |   | [permutation pair sum](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_013/permutation_pair_sum.py) | easy
+| 19 | 14 | [pair with k difference naive approach](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_014/pair_with_diff_naive.py) | easy
+| 20 | 15 | [pair with k difference optimal approach](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_015/pair_with_diff_optimal.py) | easy
+| 21 | 16 | [ceiling in a sorted array](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_016/ceiling_sorted_arr.py) | easy
+| 22 | 17 | [replace "O" if surrounded by "X"](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_017/replace_O_w_X.py) | medium
