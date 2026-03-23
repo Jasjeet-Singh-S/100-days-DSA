@@ -15,7 +15,7 @@ This isn't meant to be a continuous 100 days streak where i do DSA every day for
 I'll update this markdown file if there are any other resources I follow.
 
 ## Progress
-Problem counter: 18 Problems
+Problem counter: 23 Problems
 
 | sr no | day | problem solved | difficulty |
 |---|---|---|---|
@@ -41,3 +41,5 @@ Problem counter: 18 Problems
 | 20 | 15 | [pair with k difference optimal approach](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_015/pair_with_diff_optimal.py) | easy
 | 21 | 16 | [ceiling in a sorted array](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_016/ceiling_sorted_arr.py) | easy
 | 22 | 17 | [replace "O" if surrounded by "X"](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_017/replace_O_w_X.py) | medium
+| 23 | 18 | [reverse linked list](day_018/reverse_LL.py) | easy
+| 24 | 19 | [next permutation brute force](day_019/next_permutation.py) | medium
