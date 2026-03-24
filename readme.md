@@ -43,3 +43,4 @@ Problem counter: 23 Problems
 | 22 | 17 | [replace "O" if surrounded by "X"](https://github.com/Jasjeet-Singh-S/100-days-DSA/blob/main/day_017/replace_O_w_X.py) | medium
 | 23 | 18 | [reverse linked list](day_018/reverse_LL.py) | easy
 | 24 | 19 | [next permutation brute force](day_019/next_permutation.py) | medium
+| 25 | 20 | [linked list cycle](day_020/linked_list_cycle.py) | easy
