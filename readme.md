@@ -44,3 +44,4 @@ Problem counter: 23 Problems
 | 23 | 18 | [reverse linked list](day_018/reverse_LL.py) | easy
 | 24 | 19 | [next permutation brute force](day_019/next_permutation.py) | medium
 | 25 | 20 | [linked list cycle](day_020/linked_list_cycle.py) | easy
+| 26 | 21 | [merging sorted linked list](day_021/merge_linked_list.py) | easy
