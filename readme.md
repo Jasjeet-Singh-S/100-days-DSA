@@ -45,3 +45,4 @@ Problem counter: 23 Problems
 | 24 | 19 | [next permutation brute force](day_019/next_permutation.py) | medium
 | 25 | 20 | [linked list cycle](day_020/linked_list_cycle.py) | easy
 | 26 | 21 | [merging sorted linked list](day_021/merge_linked_list.py) | easy
+| 27 | 22 | [delete without head node](day_022/del_wo_head_ptr.py) | easy
