@@ -46,3 +46,4 @@ Problem counter: 23 Problems
 | 25 | 20 | [linked list cycle](day_020/linked_list_cycle.py) | easy
 | 26 | 21 | [merging sorted linked list](day_021/merge_linked_list.py) | easy
 | 27 | 22 | [delete without head node](day_022/del_wo_head_ptr.py) | easy
+| 28 | 23 | [remove duplicates from unsorted linked list](day_023/del_duplicate_nodes.py) | easy
