@@ -51,3 +51,4 @@ Problem counter: 23 Problems
 | 30 | 25 | [remove nth node from the end of linked list naive approach](day_025/remove_nth_from_end_naive.py) | medium
 | 31 | 26 | [remove nth node from the end of linked list optimal approach](day_026/remove_nth_from_end_opt.py) | medium
 | 32 |    | [remove loop from linked list](day_026/remove_loop.py) | medium
+| 33 | 27 | [intersecting linked lists](day_027/intersection.py) | medium 
