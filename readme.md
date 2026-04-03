@@ -52,3 +52,4 @@ Problem counter: 23 Problems
 | 31 | 26 | [remove nth node from the end of linked list optimal approach](day_026/remove_nth_from_end_opt.py) | medium
 | 32 |    | [remove loop from linked list](day_026/remove_loop.py) | medium
 | 33 | 27 | [intersecting linked lists](day_027/intersection.py) | medium 
+| 34 | 28 | [best time to buy and sell stock](day_028/buy_sell_stock.py) | medium
