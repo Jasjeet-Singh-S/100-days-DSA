@@ -22,6 +22,12 @@ pie title Problems by Difficulty
     "Medium" : 14
     "Hard" : 0
 ```
+```mermaid
+pie title Problems Solved in a Day
+    "One" : 24
+    "Two" : 6
+    "Three" : 0
+```
 
 | sr no | day | problem solved | difficulty |
 |---|---|---|---|
