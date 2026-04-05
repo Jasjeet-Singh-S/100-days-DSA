@@ -15,16 +15,16 @@ This isn't meant to be a continuous 100 days streak where i do DSA every day for
 I'll update this markdown file if there are any other resources I follow.
 
 ## Progress
-Problem counter: 37 Problems
+Problem counter: 38 Problems
 ```mermaid
 pie title Problems by Difficulty
     "Easy" : 22
-    "Medium" : 14
+    "Medium" : 16
     "Hard" : 0
 ```
 ```mermaid
 pie title Problems Solved in a Day
-    "One" : 23
+    "One" : 24
     "Two" : 7
     "Three" : 0
 ```
@@ -68,3 +68,4 @@ pie title Problems Solved in a Day
 | 35 | 29 | [repeated and missing number](day_029/repeat_and_missing.py) | medium
 | 36 | 30 | [repeated and missing number optimal approach](day_030/repeated_and_missing_optimal.py) | medium
 | 37 |    | [k'th largest element heap approach](day_030/kth_largest_element.py) | medium 
+| 38 | 31 | [k'th largest element using quick select](day_031/quickselect.py) | medium

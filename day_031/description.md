@@ -1,0 +1,2 @@
+# Quick select for k'th largest element 
+i refered to [this video](https://youtu.be/XEmy13g1Qxc?si=rjGez2sUNdg7rCbo) for understanding, then coded it out partially myself, then used gemini for refining the bugs in the code
