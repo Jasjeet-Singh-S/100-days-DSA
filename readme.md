@@ -15,16 +15,16 @@ This isn't meant to be a continuous 100 days streak where i do DSA every day for
 I'll update this markdown file if there are any other resources I follow.
 
 ## Progress
-Problem counter: 44 Problems
+Problem counter: 45 Problems
 ```mermaid
 pie title Problems by Difficulty
     "Easy" : 23
-    "Medium" : 21
+    "Medium" : 22
     "Hard" : 0
 ```
 ```mermaid
 pie title Problems Solved in a Day
-    "One" : 30
+    "One" : 31
     "Two" : 7
     "Three" : 0
 ```
@@ -75,3 +75,4 @@ pie title Problems Solved in a Day
 | 42 | 35 | [product except self](day_035/product.py) | medium
 | 43 | 36 | [longest substring without repeating characters](day_036/substrng_no_rep.py) | medium
 | 44 | 37 | [two stacks](day_037/two_stack.py) | easy
+| 45 | 38 | [maximum product subarray](day_038/max_prod_subarray.py) | medium

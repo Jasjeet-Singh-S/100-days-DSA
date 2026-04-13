@@ -1,3 +1,5 @@
+# i did this appraoch as recommended by striver, but honestly maybe just do kadane's, there are too many points of potential failure here that i might not be able to figure out in the interview
+# https://www.youtube.com/watch?v=hnswaLJvr6g&t=753s
 class Solution:
     def maxProduct(self, nums):
         if len(nums) == 1:
