@@ -15,16 +15,16 @@ This isn't meant to be a continuous 100 days streak where i do DSA every day for
 I'll update this markdown file if there are any other resources I follow.
 
 ## Progress
-Problem counter: 47 Problems
+Problem counter: 48 Problems
 ```mermaid
 pie title Problems by Difficulty
     "Easy" : 23
-    "Medium" : 24
+    "Medium" : 25
     "Hard" : 0
 ```
 ```mermaid
 pie title Problems Solved in a Day
-    "One" : 31
+    "One" : 32
     "Two" : 8
     "Three" : 0
 ```
@@ -77,4 +77,5 @@ pie title Problems Solved in a Day
 | 44 | 37 | [two stacks](day_037/two_stack.py) | easy
 | 45 | 38 | [maximum product subarray](day_038/max_prod_subarray.py) | medium
 | 46 | 39 | [minimum in rotated sorted array](day_039/min_rotate_sorted.py) | medium 
-| 47 |    | [segeregate even and odd nodes](day_039/segeregate_even_odd.py)
+| 47 |    | [segeregate even and odd nodes](day_039/segeregate_even_odd.py) | medium
+| 48 |    | [merge intervals](day_040/merge_intervals.py) | medium 
