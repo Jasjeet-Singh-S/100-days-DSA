@@ -80,3 +80,5 @@ pie title Problems Solved in a Day
 | 47 |    | [segeregate even and odd nodes](day_039/segeregate_even_odd.py) | medium
 | 48 | 40 | [merge intervals](day_040/merge_intervals.py) | medium 
 | 49 |    | [k'th smallest](day_040/kth_smallest.py) | medium
+| 50 | 41 | [reorder list](day_041/reorder.py) | medium
+| 51 | 42 | [countin sort](day_042/counting_sort.py) | easy
