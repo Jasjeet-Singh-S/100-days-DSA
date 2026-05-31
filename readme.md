@@ -84,3 +84,6 @@ pie title Problems Solved in a Day
 | 51 | 42 | [countin sort](day_042/counting_sort.py) | easy
 | 52 | 43 | [common in 3 sorted arrays](day_043/common_in_3.py) | easy
 | 53 | 44 | [search array with adjacent difference at most k](day_044/adj_diff_at_most_k.py) | easy
+| 54 |    | [majority element brute optimized](day_044/majority.py) | medium
+| 55 |    | [moores voting algorithm](day_044/moores_voting_algo.py) | medium
+| 56 | 45 | [rat in a maze recurisve](day_045/rat_in_maze.py) | medium
