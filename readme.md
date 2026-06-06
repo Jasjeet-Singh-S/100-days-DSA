@@ -88,4 +88,6 @@ pie title Problems Solved in a Day
 | 55 |    | [moores voting algorithm](day_044/moores_voting_algo.py) | medium
 | 56 | 45 | [rat in a maze recurisve](day_045/rat_in_maze.py) | medium
 | 57 | 46 | [postfix evalutation](day_046/postfix.py) | easy
-| 58 | 47 | [stack using queue](day_046/stack_using_queue.py) | easy
+| 58 |    | [stack using queue](day_046/stack_using_queue.py) | easy
+| 59 | 47 | [radix sort](day_047/radix_sort.py) | medium
+| 59 |    | [radix sort](day_047/reverse_queue.py) | easy
