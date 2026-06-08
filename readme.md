@@ -90,4 +90,6 @@ pie title Problems Solved in a Day
 | 57 | 46 | [postfix evalutation](day_046/postfix.py) | easy
 | 58 |    | [stack using queue](day_046/stack_using_queue.py) | easy
 | 59 | 47 | [radix sort](day_047/radix_sort.py) | medium
-| 59 |    | [radix sort](day_047/reverse_queue.py) | easy
+| 59 |    | [reverse queue](day_047/reverse_queue.py) | easy
+| 60 | 48 | [count inversions](day_048/count_inversions.py) | medium
+| 61 |    | [reverse first k elements of queue](day_048/reverse_k_queue.py) | easy
