@@ -93,3 +93,6 @@ pie title Problems Solved in a Day
 | 59 |    | [reverse queue](day_047/reverse_queue.py) | easy
 | 60 | 48 | [count inversions](day_048/count_inversions.py) | medium
 | 61 |    | [reverse first k elements of queue](day_048/reverse_k_queue.py) | easy
+| 62 | 49 | [merge sorted arrays](day_049/merge_sorted_arrays.py) | medium
+| 63 |    | [product of array except itself](day_049/product_except_self.py) | medium
+| 64 |    | [infix to postfix](day_049/infix_to_postfix.py) | medium
