@@ -96,3 +96,5 @@ pie title Problems Solved in a Day
 | 62 | 49 | [merge sorted arrays](day_049/merge_sorted_arrays.py) | medium
 | 63 |    | [product of array except itself](day_049/product_except_self.py) | medium
 | 64 |    | [infix to postfix](day_049/infix_to_postfix.py) | medium
+| 65 | 50 | [pair sum](day_050/pair_sum.py) | medium
+| 66 |    | [activity selection (sorting and heap approach)](day_050/activity_selection_priority.py) | easy
