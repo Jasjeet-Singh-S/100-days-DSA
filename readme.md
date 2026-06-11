@@ -98,3 +98,5 @@ pie title Problems Solved in a Day
 | 64 |    | [infix to postfix](day_049/infix_to_postfix.py) | medium
 | 65 | 50 | [pair sum](day_050/pair_sum.py) | medium
 | 66 |    | [activity selection (sorting and heap approach)](day_050/activity_selection_priority.py) | easy
+| 67 | 51 | [minimum number of coins](day_051/min_coins.py) | easy
+| 68 |    | [rotten oranges](day_051/rotten_oranges.py) | medium
