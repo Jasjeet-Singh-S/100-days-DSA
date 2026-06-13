@@ -100,3 +100,5 @@ pie title Problems Solved in a Day
 | 66 |    | [activity selection (sorting and heap approach)](day_050/activity_selection_priority.py) | easy
 | 67 | 51 | [minimum number of coins](day_051/min_coins.py) | easy
 | 68 |    | [rotten oranges](day_051/rotten_oranges.py) | medium
+| 69 |    | [stack permutations](day_051/stack_permutations.py) | medium
+| 70 | 52 | [N Queens problem recursive sol](day_053/N_Queens.py) | medium
