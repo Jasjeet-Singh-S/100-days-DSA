@@ -101,4 +101,6 @@ pie title Problems Solved in a Day
 | 67 | 51 | [minimum number of coins](day_051/min_coins.py) | easy
 | 68 |    | [rotten oranges](day_051/rotten_oranges.py) | medium
 | 69 |    | [stack permutations](day_051/stack_permutations.py) | medium
-| 70 | 52 | [N Queens problem recursive sol](day_053/N_Queens.py) | medium
+| 70 | 52 | [N Queens problem recursive sol](day_052/N_Queens.py) | medium
+| 71 | 53 | [m coloring](day_053/m_coloring.py) | medium
+| 72 |    | [distance of nearest cell having 1] | medium
