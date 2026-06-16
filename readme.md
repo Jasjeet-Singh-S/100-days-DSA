@@ -103,4 +103,8 @@ pie title Problems Solved in a Day
 | 69 |    | [stack permutations](day_051/stack_permutations.py) | medium
 | 70 | 52 | [N Queens problem recursive sol](day_052/N_Queens.py) | medium
 | 71 | 53 | [m coloring](day_053/m_coloring.py) | medium
-| 72 |    | [distance of nearest cell having 1] | medium
+| 72 |    | [distance of nearest cell having 1](day_053/distance_nearest_cell.py) | medium
+| 73 | 54 | [minimum sum of two numbers formed from digits of an array](day_054/min_sum.py) | easy
+| 74 |    | [job sequencing problem](day_054/job_sequencing.py) | medium
+| 75 |    | [fractional knapsack](day_054/fractional_knapsack.py) | medium
+| 76 |    | [special stack](day_054/special_stack.py) | medium
