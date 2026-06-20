@@ -108,3 +108,4 @@ pie title Problems Solved in a Day
 | 74 |    | [job sequencing problem](day_054/job_sequencing.py) | medium
 | 75 |    | [fractional knapsack](day_054/fractional_knapsack.py) | medium
 | 76 |    | [special stack](day_054/special_stack.py) | medium
+| 77 | 55 | [minimum sum of absolute difference pairs in array](day_055/min_sum.py) | easy
