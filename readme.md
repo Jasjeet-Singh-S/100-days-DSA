@@ -109,3 +109,6 @@ pie title Problems Solved in a Day
 | 75 |    | [fractional knapsack](day_054/fractional_knapsack.py) | medium
 | 76 |    | [special stack](day_054/special_stack.py) | medium
 | 77 | 55 | [minimum sum of absolute difference pairs in array](day_055/min_sum.py) | easy
+| 78 | 56 | [kth smallest elements](day_056/kth_smallest.py) | medium
+| 79 |    | [next greater element](day_056/next_greater_element.py) | medium
+| 80 |    | [top k frequent elements](day_056/top_k.py) | medium
