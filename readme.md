@@ -112,3 +112,5 @@ pie title Problems Solved in a Day
 | 78 | 56 | [kth smallest elements](day_056/kth_smallest.py) | medium
 | 79 |    | [next greater element](day_056/next_greater_element.py) | medium
 | 80 |    | [top k frequent elements](day_056/top_k.py) | medium
+| 81 | 57 | [max depth of binary tree](day_057/max_depth_bt.py) | easy
+| 82 |    | [same tree](day_057/same_tree.py) | easy
