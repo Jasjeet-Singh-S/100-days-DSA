@@ -114,3 +114,9 @@ pie title Problems Solved in a Day
 | 80 |    | [top k frequent elements](day_056/top_k.py) | medium
 | 81 | 57 | [max depth of binary tree](day_057/max_depth_bt.py) | easy
 | 82 |    | [same tree](day_057/same_tree.py) | easy
+| 83 | 58 | [invert binary tree](day_058/invert_bt.py) | easy
+| 84 |    | [level order traversal](day_058/level_order_traversal.py) | easy
+| 85 |    | [left view of binary tree](day_058/left_view.py) | easy
+| 86 |    | [right view of binary tree](day_058/right_view.py) | easy
+| 87 |    | [zig zag traversal of binary tree](day_058/zig_zag.py) | easy
+| 88 |    | [balanced binary tree](day_058/balanced_tree.py) | easy
