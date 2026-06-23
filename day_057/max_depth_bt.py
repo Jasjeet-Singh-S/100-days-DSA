@@ -36,7 +36,7 @@ class Solution:
         while q:
             for i in range(len(q)):
                 node = q.popleft()
-                if node.next:
+                if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
