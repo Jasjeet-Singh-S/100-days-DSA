@@ -120,3 +120,5 @@ pie title Problems Solved in a Day
 | 86 |    | [right view of binary tree](day_058/right_view.py) | easy
 | 87 |    | [zig zag traversal of binary tree](day_058/zig_zag.py) | easy
 | 88 |    | [balanced binary tree](day_058/balanced_tree.py) | easy
+| 89 | 59 | [group anagram](day_059/group_anagram.py) | medium
+| 90 |    | [combination sum](day_059/combination_sum.py) | medium
