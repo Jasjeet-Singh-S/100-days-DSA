@@ -122,3 +122,5 @@ pie title Problems Solved in a Day
 | 88 |    | [balanced binary tree](day_058/balanced_tree.py) | easy
 | 89 | 59 | [group anagram](day_059/group_anagram.py) | medium
 | 90 |    | [combination sum](day_059/combination_sum.py) | medium
+| 91 | 60 | [BFS with adjacency matrix](day_060/BFS_adj_mat.py) | easy
+| 92 |    | [DFS with adjacency matrix](day_060/DFS_adj_mat.py) | easy
