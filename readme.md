@@ -15,18 +15,18 @@ This isn't meant to be a continuous 100 days streak where i do DSA every day for
 I'll update this markdown file if there are any other resources I follow.
 
 ## Progress
-Problem counter: 49 Problems
+Problem counter: 99 Problems
 ```mermaid
 pie title Problems by Difficulty
-    "Easy" : 23
-    "Medium" : 26
+    "Easy" : 44
+    "Medium" : 55
     "Hard" : 0
 ```
 ```mermaid
 pie title Problems Solved in a Day
-    "One" : 31
-    "Two" : 9
-    "Three" : 0
+    "One" : 37
+    "Two" : 18
+    "Three+" : 7
 ```
 
 | sr no | day | problem solved | difficulty |
@@ -90,37 +90,43 @@ pie title Problems Solved in a Day
 | 57 | 46 | [postfix evalutation](day_046/postfix.py) | easy
 | 58 |    | [stack using queue](day_046/stack_using_queue.py) | easy
 | 59 | 47 | [radix sort](day_047/radix_sort.py) | medium
-| 59 |    | [reverse queue](day_047/reverse_queue.py) | easy
-| 60 | 48 | [count inversions](day_048/count_inversions.py) | medium
-| 61 |    | [reverse first k elements of queue](day_048/reverse_k_queue.py) | easy
-| 62 | 49 | [merge sorted arrays](day_049/merge_sorted_arrays.py) | medium
-| 63 |    | [product of array except itself](day_049/product_except_self.py) | medium
-| 64 |    | [infix to postfix](day_049/infix_to_postfix.py) | medium
-| 65 | 50 | [pair sum](day_050/pair_sum.py) | medium
-| 66 |    | [activity selection (sorting and heap approach)](day_050/activity_selection_priority.py) | easy
-| 67 | 51 | [minimum number of coins](day_051/min_coins.py) | easy
-| 68 |    | [rotten oranges](day_051/rotten_oranges.py) | medium
-| 69 |    | [stack permutations](day_051/stack_permutations.py) | medium
-| 70 | 52 | [N Queens problem recursive sol](day_052/N_Queens.py) | medium
-| 71 | 53 | [m coloring](day_053/m_coloring.py) | medium
-| 72 |    | [distance of nearest cell having 1](day_053/distance_nearest_cell.py) | medium
-| 73 | 54 | [minimum sum of two numbers formed from digits of an array](day_054/min_sum.py) | easy
-| 74 |    | [job sequencing problem](day_054/job_sequencing.py) | medium
-| 75 |    | [fractional knapsack](day_054/fractional_knapsack.py) | medium
-| 76 |    | [special stack](day_054/special_stack.py) | medium
-| 77 | 55 | [minimum sum of absolute difference pairs in array](day_055/min_sum.py) | easy
-| 78 | 56 | [kth smallest elements](day_056/kth_smallest.py) | medium
-| 79 |    | [next greater element](day_056/next_greater_element.py) | medium
-| 80 |    | [top k frequent elements](day_056/top_k.py) | medium
-| 81 | 57 | [max depth of binary tree](day_057/max_depth_bt.py) | easy
-| 82 |    | [same tree](day_057/same_tree.py) | easy
-| 83 | 58 | [invert binary tree](day_058/invert_bt.py) | easy
-| 84 |    | [level order traversal](day_058/level_order_traversal.py) | easy
-| 85 |    | [left view of binary tree](day_058/left_view.py) | easy
-| 86 |    | [right view of binary tree](day_058/right_view.py) | easy
-| 87 |    | [zig zag traversal of binary tree](day_058/zig_zag.py) | easy
-| 88 |    | [balanced binary tree](day_058/balanced_tree.py) | easy
-| 89 | 59 | [group anagram](day_059/group_anagram.py) | medium
-| 90 |    | [combination sum](day_059/combination_sum.py) | medium
-| 91 | 60 | [BFS with adjacency matrix](day_060/BFS_adj_mat.py) | easy
-| 92 |    | [DFS with adjacency matrix](day_060/DFS_adj_mat.py) | easy
+| 60 |    | [reverse queue](day_047/reverse_queue.py) | easy
+| 61 | 48 | [count inversions](day_048/count_inversions.py) | medium
+| 62 |    | [reverse first k elements of queue](day_048/reverse_k_queue.py) | easy
+| 63 | 49 | [merge sorted arrays](day_049/merge_sorted_arrays.py) | medium
+| 64 |    | [product of array except itself](day_049/product_except_self.py) | medium
+| 65 |    | [infix to postfix](day_049/infix_to_postfix.py) | medium
+| 66 | 50 | [pair sum](day_050/pair_sum.py) | medium
+| 67 |    | [activity selection (sorting and heap approach)](day_050/activity_selection_priority.py) | easy
+| 68 | 51 | [minimum number of coins](day_051/min_coins.py) | easy
+| 69 |    | [rotten oranges](day_051/rotten_oranges.py) | medium
+| 70 |    | [stack permutations](day_051/stack_permutations.py) | medium
+| 71 | 52 | [N Queens problem recursive sol](day_052/N_Queens.py) | medium
+| 72 | 53 | [m coloring](day_053/m_coloring.py) | medium
+| 73 |    | [distance of nearest cell having 1](day_053/distance_nearest_cell.py) | medium
+| 74 | 54 | [minimum sum of two numbers formed from digits of an array](day_054/min_sum.py) | easy
+| 75 |    | [job sequencing problem](day_054/job_sequencing.py) | medium
+| 76 |    | [fractional knapsack](day_054/fractional_knapsack.py) | medium
+| 77 |    | [special stack](day_054/special_stack.py) | medium
+| 78 | 55 | [minimum sum of absolute difference pairs in array](day_055/min_sum.py) | easy
+| 79 | 56 | [kth smallest elements](day_056/kth_smallest.py) | medium
+| 80 |    | [next greater element](day_056/next_greater_element.py) | medium
+| 81 |    | [top k frequent elements](day_056/top_k.py) | medium
+| 82 | 57 | [max depth of binary tree](day_057/max_depth_bt.py) | easy
+| 83 |    | [same tree](day_057/same_tree.py) | easy
+| 84 | 58 | [invert binary tree](day_058/invert_bt.py) | easy
+| 85 |    | [level order traversal](day_058/level_order_traversal.py) | easy
+| 86 |    | [left view of binary tree](day_058/left_view.py) | easy
+| 87 |    | [right view of binary tree](day_058/right_view.py) | easy
+| 88 |    | [zig zag traversal of binary tree](day_058/zig_zag.py) | easy
+| 89 |    | [balanced binary tree](day_058/balanced_tree.py) | easy
+| 90 | 59 | [group anagram](day_059/group_anagram.py) | medium
+| 91 |    | [combination sum](day_059/combination_sum.py) | medium
+| 92 | 60 | [BFS with adjacency matrix](day_060/BFS_adj_mat.py) | easy
+| 93 |    | [DFS with adjacency matrix](day_060/DFS_adj_mat.py) | easy
+| 94 | 61 | [binary tree from inorder and preorder traversal](day_061/bt_inorder_preorder.py) | medium
+| 95 |    | [detect cycle in directed graph](day_061/cycle_directed_graph.py) | medium
+| 96 |    | [detect cycle in undirected graph](day_061/cycle_undirected_graph.py) | medium
+| 97 |    | [dijkstra algorithm using priority queue](day_061/dijkstra_priority_queue.py) | medium
+| 98 | 62 | [top view of binary tree](day_062/top_view_bt.py) | medium
+| 99 |    | [toposort using DFS](day_062/toposort_DFS.py) | medium
