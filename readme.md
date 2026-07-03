@@ -15,18 +15,18 @@ This isn't meant to be a continuous 100 days streak where i do DSA every day for
 I'll update this markdown file if there are any other resources I follow.
 
 ## Progress
-Problem counter: 99 Problems
+Problem counter: 102 Problems
 ```mermaid
 pie title Problems by Difficulty
     "Easy" : 44
-    "Medium" : 55
+    "Medium" : 58
     "Hard" : 0
 ```
 ```mermaid
 pie title Problems Solved in a Day
     "One" : 37
     "Two" : 18
-    "Three+" : 7
+    "Three+" : 8
 ```
 
 | sr no | day | problem solved | difficulty |
@@ -130,3 +130,6 @@ pie title Problems Solved in a Day
 | 97 |    | [dijkstra algorithm using priority queue](day_061/dijkstra_priority_queue.py) | medium
 | 98 | 62 | [top view of binary tree](day_062/top_view_bt.py) | medium
 | 99 |    | [toposort using DFS](day_062/toposort_DFS.py) | medium
+| 100 | 63 | [diameter of a binary tree](day_063/diameter_bt.py) | medium
+| 101 |    | [lowest common ancestor](day_063/LCA_bt.py) | medium
+| 102 |    | [longest palindromic substring](day_063/longest_palindromic_substring.py) | medium
