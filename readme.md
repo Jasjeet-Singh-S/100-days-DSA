@@ -15,18 +15,18 @@ This isn't meant to be a continuous 100 days streak where i do DSA every day for
 I'll update this markdown file if there are any other resources I follow.
 
 ## Progress
-Problem counter: 102 Problems
+Problem counter: 107 Problems
 ```mermaid
 pie title Problems by Difficulty
-    "Easy" : 44
-    "Medium" : 58
+    "Easy" : 46
+    "Medium" : 61
     "Hard" : 0
 ```
 ```mermaid
 pie title Problems Solved in a Day
     "One" : 37
     "Two" : 18
-    "Three+" : 8
+    "Three+" : 9
 ```
 
 | sr no | day | problem solved | difficulty |
@@ -133,3 +133,8 @@ pie title Problems Solved in a Day
 | 100 | 63 | [diameter of a binary tree](day_063/diameter_bt.py) | medium
 | 101 |    | [lowest common ancestor](day_063/LCA_bt.py) | medium
 | 102 |    | [longest palindromic substring](day_063/longest_palindromic_substring.py) | medium
+| 103 | 64 | [search node in BST](day_064/search_node_BST.py) | easy
+| 104 |    | [lowest common ancestor in BST](day_064/LCA_BST.py) | easy
+| 105 |    | [validate BST](day_064/validate_BST.py) | medium
+| 106 |    | [Kth smallest element in BST](day_064/kth_smallest_BST.py) | medium
+| 107 |    | [delete node in BST](day_064/delete_BST_node.py) | medium
