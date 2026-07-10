@@ -15,18 +15,18 @@ This isn't meant to be a continuous 100 days streak where i do DSA every day for
 I'll update this markdown file if there are any other resources I follow.
 
 ## Progress
-Problem counter: 107 Problems
+Problem counter: 111 Problems
 ```mermaid
 pie title Problems by Difficulty
-    "Easy" : 46
-    "Medium" : 61
-    "Hard" : 0
+    "Easy" : 47
+    "Medium" : 63
+    "Hard" : 1
 ```
 ```mermaid
 pie title Problems Solved in a Day
     "One" : 37
     "Two" : 18
-    "Three+" : 9
+    "Three+" : 10
 ```
 
 | sr no | day | problem solved | difficulty |
@@ -138,3 +138,7 @@ pie title Problems Solved in a Day
 | 105 |    | [validate BST](day_064/validate_BST.py) | medium
 | 106 |    | [Kth smallest element in BST](day_064/kth_smallest_BST.py) | medium
 | 107 |    | [delete node in BST](day_064/delete_BST_node.py) | medium
+| 108 | 65 | [climbing stairs](day_065/climbing_stairs.py) | easy
+| 109 |    | [connect ropes](day_065/connect_ropes.py) | medium
+| 110 |    | [minimum window substring](day_065/min_win_substring.py) | hard
+| 111 |    | [next smaller element](day_065/next_smaller_element.py) | medium
