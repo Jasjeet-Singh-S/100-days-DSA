@@ -111,3 +111,23 @@ class Solution:
             i = (i - 1) // 2
             parents.append(order[i])
         return parents
+
+
+'''
+class Solution:
+    def lca(self, root, n1, n2):
+        # Base Case: If the root is None, or we match one of the target nodes, return the root
+        if root is None or root.data == n1 or root.data == n2:
+            return root
+
+        # Look for n1 and n2 in the left and right subtrees
+        left_result = self.lca(root.left, n1, n2)
+        right_result = self.lca(root.right, n1, n2)
+
+        # If n1 is found in one subtree and n2 in the other, current root is the LCA
+        if left_result and right_result:
+            return root
+
+        # Otherwise, return whichever side returned a node (or None if neither found)
+        return left_result if left_result else right_result
+'''
