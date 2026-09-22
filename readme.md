@@ -15,17 +15,17 @@ This isn't meant to be a continuous 100 days streak where i do DSA every day for
 I'll update this markdown file if there are any other resources I follow.
 
 ## Progress
-Problem counter: 113 Problems
+Problem counter: 115 Problems
 ```mermaid
 pie title Problems by Difficulty
-    "Easy" : 47
-    "Medium" : 64
+    "Easy" : 48
+    "Medium" : 65
     "Hard" : 2
 ```
 ```mermaid
 pie title Problems Solved in a Day
     "One" : 37
-    "Two" : 19
+    "Two" : 20
     "Three+" : 10
 ```
 
@@ -144,3 +144,5 @@ pie title Problems Solved in a Day
 | 111 |    | [next smaller element](day_065/next_smaller_element.py) | medium
 | 112 | 66 | [LRU cache](day_066/LRU_cache.py) | hard
 | 113 |    | [balanced BST](day_066/balanced_BST.py) | medium
+| 114 | 67 | [flood fill](day_067/flood_fill.py) | easy
+| 115 |    | [celebrity problem](day_067/celebrity_problem.py) | medium
