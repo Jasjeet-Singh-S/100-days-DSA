@@ -15,18 +15,18 @@ This isn't meant to be a continuous 100 days streak where i do DSA every day for
 I'll update this markdown file if there are any other resources I follow.
 
 ## Progress
-Problem counter: 115 Problems
+Problem counter: 124 Problems
 ```mermaid
 pie title Problems by Difficulty
-    "Easy" : 48
-    "Medium" : 65
+    "Easy" : 51
+    "Medium" : 71
     "Hard" : 2
 ```
 ```mermaid
 pie title Problems Solved in a Day
-    "One" : 37
+    "One" : 38
     "Two" : 20
-    "Three+" : 10
+    "Three+" : 12
 ```
 
 | sr no | day | problem solved | difficulty |
@@ -146,3 +146,12 @@ pie title Problems Solved in a Day
 | 113 |    | [balanced BST](day_066/balanced_BST.py) | medium
 | 114 | 67 | [flood fill](day_067/flood_fill.py) | easy
 | 115 |    | [celebrity problem](day_067/celebrity_problem.py) | medium
+| 116 | 68 | [coin change](day_068/coin_change.py) | medium
+| 117 | 69 | [3 sum](day_069/3_sum.py) | medium
+| 118 |    | [container with most water](day_069/most_water_container.py) | medium
+| 119 |    | [sort a linked list of 0s 1s 2s](day_069/sort_LL_012.py) | easy
+| 120 |    | [sum tree](day_069/sum_tree.py) | easy
+| 121 | 70 | [triplets with sum less than a given value](day_070/triplets_w_sum_less.py) | medium
+| 122 |    | [kth largest element in a stream](day_070/kth_largest_stream.py) | medium
+| 123 |    | [k largest](day_070/k_largest.py) | medium
+| 124 |    | [binary tree to BST](day_070/bt_to_bst.py) | easy
