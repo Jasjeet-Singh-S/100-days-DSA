@@ -15,18 +15,18 @@ This isn't meant to be a continuous 100 days streak where i do DSA every day for
 I'll update this markdown file if there are any other resources I follow.
 
 ## Progress
-Problem counter: 124 Problems
+Problem counter: 130 Problems
 ```mermaid
 pie title Problems by Difficulty
-    "Easy" : 51
-    "Medium" : 71
+    "Easy" : 53
+    "Medium" : 75
     "Hard" : 2
 ```
 ```mermaid
 pie title Problems Solved in a Day
     "One" : 38
-    "Two" : 20
-    "Three+" : 12
+    "Two" : 21
+    "Three+" : 13
 ```
 
 | sr no | day | problem solved | difficulty |
@@ -155,3 +155,9 @@ pie title Problems Solved in a Day
 | 122 |    | [kth largest element in a stream](day_070/kth_largest_stream.py) | medium
 | 123 |    | [k largest](day_070/k_largest.py) | medium
 | 124 |    | [binary tree to BST](day_070/bt_to_bst.py) | easy
+| 125 | 71 | [BST to sorted skewed tree](day_071/bst_to_sorted_arr.py) | medium
+| 126 |    | [prim's algorithm](day_071/prims_algo.py) | medium
+| 127 | 72 | [minimum element in BST](day_072/minimum_in_bst.py) | easy
+| 128 |    | [count BST nodes that lie in a given range](day_072/bst_nodes_in_range.py) | medium
+| 129 |    | [maximum equal sum of 3 stacks](day_072/equal_sum_3_stack.py) | easy
+| 130 |    | [clone graph](day_072/clone_graph.py) | medium
