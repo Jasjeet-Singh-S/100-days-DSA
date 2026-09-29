@@ -15,18 +15,18 @@ This isn't meant to be a continuous 100 days streak where i do DSA every day for
 I'll update this markdown file if there are any other resources I follow.
 
 ## Progress
-Problem counter: 130 Problems
+Problem counter: 134 Problems
 ```mermaid
 pie title Problems by Difficulty
-    "Easy" : 53
-    "Medium" : 75
-    "Hard" : 2
+    "Easy" : 54
+    "Medium" : 77
+    "Hard" : 3
 ```
 ```mermaid
 pie title Problems Solved in a Day
     "One" : 38
     "Two" : 21
-    "Three+" : 13
+    "Three+" : 14
 ```
 
 | sr no | day | problem solved | difficulty |
@@ -161,3 +161,7 @@ pie title Problems Solved in a Day
 | 128 |    | [count BST nodes that lie in a given range](day_072/bst_nodes_in_range.py) | medium
 | 129 |    | [maximum equal sum of 3 stacks](day_072/equal_sum_3_stack.py) | easy
 | 130 |    | [clone graph](day_072/clone_graph.py) | medium
+| 131 | 73 | [house robber](day_073/house_robber.py) | medium
+| 132 |    | [merge k sorted lists](day_073/merge_k_sorted.py) | hard
+| 133 |    | [count set bits](day_073/count_set_bits.py) | easy
+| 134 |    | [count set bits in 1 to n](day_073/set_bits_n.py) | medium
