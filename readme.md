@@ -15,17 +15,17 @@ This isn't meant to be a continuous 100 days streak where i do DSA every day for
 I'll update this markdown file if there are any other resources I follow.
 
 ## Progress
-Problem counter: 134 Problems
+Problem counter: 136 Problems
 ```mermaid
 pie title Problems by Difficulty
     "Easy" : 54
-    "Medium" : 77
+    "Medium" : 79
     "Hard" : 3
 ```
 ```mermaid
 pie title Problems Solved in a Day
     "One" : 38
-    "Two" : 21
+    "Two" : 22
     "Three+" : 14
 ```
 
@@ -165,3 +165,5 @@ pie title Problems Solved in a Day
 | 132 |    | [merge k sorted lists](day_073/merge_k_sorted.py) | hard
 | 133 |    | [count set bits](day_073/count_set_bits.py) | easy
 | 134 |    | [count set bits in 1 to n](day_073/set_bits_n.py) | medium
+| 135 | 74 | [floyd warshall algorithm](day_074/floyd_warshall.py) | medium
+| 136 |    | [longest increasing subsequence](day_074/lis.py) | medium
